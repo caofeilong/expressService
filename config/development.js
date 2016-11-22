@@ -1,6 +1,6 @@
 module.exports = {
     env: "development",
-    port: 2020,
+    port: 2030,
     mysql: {
         mobileDb: {
             connectionLimit: 20,
